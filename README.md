@@ -1,2 +1,2 @@
-# HOMEWORK-CLASS-19
-ANGRY BIRDS STAGE 3
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
